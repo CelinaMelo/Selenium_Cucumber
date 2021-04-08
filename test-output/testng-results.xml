@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-05T15:48:27 BRT" name="Default suite" finished-at="2020-11-05T15:48:41 BRT" duration-ms="13276">
+    <groups>
+    </groups>
+    <test started-at="2020-11-05T15:48:27 BRT" name="Default test" finished-at="2020-11-05T15:48:41 BRT" duration-ms="13276">
+      <class name="ComponentesTest.CamposTreinamentoTest">
+        <test-method is-config="true" signature="iniciar()[pri:0, instance:ComponentesTest.CamposTreinamentoTest@394a2528]" started-at="2020-11-05T15:48:27 BRT" name="iniciar" finished-at="2020-11-05T15:48:36 BRT" duration-ms="8323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciar -->
+        <test-method signature="campoTreinamentoTest()[pri:0, instance:ComponentesTest.CamposTreinamentoTest@394a2528]" started-at="2020-11-05T15:48:36 BRT" name="campoTreinamentoTest" finished-at="2020-11-05T15:48:37 BRT" duration-ms="1609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campoTreinamentoTest -->
+        <test-method signature="verificaValoresComboBox()[pri:0, instance:ComponentesTest.CamposTreinamentoTest@394a2528]" started-at="2020-11-05T15:48:37 BRT" name="verificaValoresComboBox" finished-at="2020-11-05T15:48:38 BRT" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificaValoresComboBox -->
+        <test-method signature="verificaVariosValoresCombo()[pri:0, instance:ComponentesTest.CamposTreinamentoTest@394a2528]" started-at="2020-11-05T15:48:38 BRT" name="verificaVariosValoresCombo" finished-at="2020-11-05T15:48:38 BRT" duration-ms="591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificaVariosValoresCombo -->
+        <test-method signature="verificandoBotao()[pri:0, instance:ComponentesTest.CamposTreinamentoTest@394a2528]" started-at="2020-11-05T15:48:38 BRT" name="verificandoBotao" finished-at="2020-11-05T15:48:39 BRT" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificandoBotao -->
+        <test-method signature="verificandoLink()[pri:0, instance:ComponentesTest.CamposTreinamentoTest@394a2528]" started-at="2020-11-05T15:48:39 BRT" name="verificandoLink" finished-at="2020-11-05T15:48:39 BRT" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificandoLink -->
+        <test-method signature="verificandoTextArea()[pri:0, instance:ComponentesTest.CamposTreinamentoTest@394a2528]" started-at="2020-11-05T15:48:39 BRT" name="verificandoTextArea" finished-at="2020-11-05T15:48:39 BRT" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificandoTextArea -->
+        <test-method is-config="true" signature="finaliar()[pri:0, instance:ComponentesTest.CamposTreinamentoTest@394a2528]" started-at="2020-11-05T15:48:39 BRT" name="finaliar" finished-at="2020-11-05T15:48:41 BRT" duration-ms="1335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finaliar -->
+      </class> <!-- ComponentesTest.CamposTreinamentoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

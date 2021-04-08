@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Documentos\Documentos Ines\Curso\PROGRAMAÇÃO - DEV\EclipseProjects\TesteAutomatizadoComponentes\.metadata\.plugins\org.eclipse.jdt.core
+2033513484.index
+3543422066.index
